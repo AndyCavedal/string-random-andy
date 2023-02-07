@@ -1,14 +1,14 @@
 # string-random-andy
 Random String Messages 
 
-##Install
+## Install
 ```npm
 npm install -g string-random-andy
 ```
 
-#Usage
+# Usage
 
 ```bash
 string-random-andy
 ```
-###Thanks for checking my first package!
+### Thanks for checking my first package!
