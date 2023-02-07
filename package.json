@@ -1,0 +1,24 @@
+{
+  "name": "string-random-andy",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyCavedal/string-random-andy.git"
+  },
+  "keywords": [],
+  "author": "Andy Cavedal <hcavedal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndyCavedal/string-random-andy/issues"
+  },
+  "homepage": "https://github.com/AndyCavedal/string-random-andy#readme",
+  "bin": {
+    "string-random-andy": "./bin/global.js"
+  },
+  "preferGlobal":true
+}
